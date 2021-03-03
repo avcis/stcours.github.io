@@ -1,8 +1,8 @@
 // ---------------------------------------------------
-// Author: Nguyễn Lâm Blog
-// Url: https://www.nguyenlamblog.xyz
+// Author: st cours
+// Url: 
 // Version: 2
-// Date: 17/10/2020
+// Date: 17/15/2050
 // ---------------------------------------------------
 
    var postTitle = new Array();     // array of posttitles
