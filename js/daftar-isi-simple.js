@@ -222,7 +222,7 @@ function displayToc(filter) {
    if (numDisplayed == postTitle.length) {
       var tocNote = '<span class="toc-note">Displaying all ' + postTitle.length + ' modules and postes<br/></span>'; }
    else {
-      var tocNote = '<span class="toc-note">Displaying ' + numDisplayed + ' posts labeled \'';
+      var tocNote = '<span class="toc-note">Displaying ' + numDisplayed + ' post labeled \'';
       tocNote += postFilter + '\' of '+ postTitle.length + ' posts total<br/></span>';
    }
    tocdiv.innerHTML = tocNote + tocTable;
